@@ -1,0 +1,5 @@
+- className="text-red-500 font-bold
+	> "text-red-500": Đây có vẻ như là một lớp CSS của Tailwind CSS để thiết lập màu chữ sang màu đỏ có mã màu là 500. Trong Tailwind CSS, các lớp có tên theo quy tắc text-{color}-{shade} được sử dụng để đặt màu cho văn bản.
+	"font-bold": Đây là một lớp để đặt định dạng chữ in đậm cho văn bản. Trong Tailwind CSS, font-bold là lớp để thiết lập định dạng chữ in đậm
+--------------------------------------------------------------------------------------------------------------------------------------------------
+variant="destructive" có thể chỉ định một kiểu biến thể của nút với một giao diện hoặc màu sắc được thiết kế để thể hiện tính chất phá hủy hoặc hành động quan trọng.
