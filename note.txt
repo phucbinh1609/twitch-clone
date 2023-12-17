@@ -3,4 +3,3 @@
 	"font-bold": Đây là một lớp để đặt định dạng chữ in đậm cho văn bản. Trong Tailwind CSS, font-bold là lớp để thiết lập định dạng chữ in đậm
 --------------------------------------------------------------------------------------------------------------------------------------------------
 variant="destructive" có thể chỉ định một kiểu biến thể của nút với một giao diện hoặc màu sắc được thiết kế để thể hiện tính chất phá hủy hoặc hành động quan trọng.
-asdf
